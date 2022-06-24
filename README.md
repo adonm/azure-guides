@@ -1,4 +1,7 @@
 # WA SOC Guides
+
+Guidance for how to complete some activities in Azure
+
 ## Azure Guides
 
 - [Deploy Azure Custom Template - Manual](/guides/azure-custom-templates.md)
